@@ -1,6 +1,8 @@
 # TheEpicRolesRussian
 Переведённый TheEpicRoles на русский язык для игры Among Us
 
+# Установка
+
 1.Чтобы установить -> Steam -> Among Us -> Локальные Файлы
 
 2.Загружаете архив TheEpicRolesRussian-версия.rar -> Открываете его -> Открываете папку внутри архива
